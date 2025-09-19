@@ -1,0 +1,32 @@
+body.extend{
+width: 1000px;
+font-family: comic sans ms;
+}
+
+div.header{
+float: left;
+margin: 0 auto;
+width: 300px;
+}
+
+nav{
+float: right;
+margin-right: 0;
+max-width: 150px;
+}
+
+div.centered{
+margin: 0 auto;
+max-width: 1000px;
+width: 1000px;
+}
+
+p.left{
+float: left;
+}
+
+div.table{
+float: center;
+margin-left: 430;
+max-width: 300px;
+}
