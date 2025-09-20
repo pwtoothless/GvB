@@ -27,6 +27,8 @@ float: left;
 
 div.table{
 float: center;
-margin-left: 430;
+margin: auto 250;
 max-width: 300px;
+border-color: black;
+border-width: 10px;
 }
