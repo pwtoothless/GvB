@@ -26,8 +26,7 @@ background-color: #fcb1a6;
 }
 
 div.table{
-float: center;
-margin: auto 250;
+margin: auto 29%;
 max-width: 300px;
 border-color: black;
 border-width: 10px;
@@ -47,7 +46,7 @@ border-radius: 10px;
 }
 
 footer{
-width: 1160px;
+width: 100%;
 padding: 3px;
 background-color: #fcb1a6;
 }
