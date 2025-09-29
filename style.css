@@ -1,28 +1,28 @@
 body.extend{
-width: 1000px;
+width: 100%;
 font-family: comic sans ms;
+background-color: #ffdccc;
 }
 
 div.header{
+padding-bottom: 6px;
 float: left;
 margin: 0 auto;
 width: 300px;
+background-color: #fcb1a6;
 }
 
 nav{
 float: right;
-margin-right: 0;
-max-width: 150px;
+padding-right: 13px;
+background-color: #fcb1a6;
 }
 
 div.centered{
 margin: 0 auto;
-max-width: 1000px;
-width: 1000px;
-}
-
-p.left{
-float: left;
+width: 100%;
+padding-bottom: 6px;
+background-color: #fcb1a6;
 }
 
 div.table{
@@ -31,4 +31,23 @@ margin: auto 250;
 max-width: 300px;
 border-color: black;
 border-width: 10px;
+}
+
+table.table-color{
+background: #fb6376;
+padding-left: 3px;
+padding-right: 3px;
+padding-bottom: 3px;
+}
+
+p.color{
+background: #fb6376;
+padding: 10px;
+border-radius: 10px;
+}
+
+footer{
+width: 1160px;
+padding: 3px;
+background-color: #fcb1a6;
 }
