@@ -4,11 +4,18 @@ font-family: comic sans ms;
 background-color: #ffdccc;
 }
 
-div.header{
-padding-bottom: 6px;
+.down{
+float: left;
+height: 75px;
+margin-left: 3px;
+margin-top: 3px;
+}
+
+.header{
+padding-bottom: 4px;
 float: left;
 margin: 0 auto;
-width: 300px;
+width: 200px;
 background-color: #fcb1a6;
 }
 
@@ -18,28 +25,34 @@ padding-right: 13px;
 background-color: #fcb1a6;
 }
 
-div.centered{
+.centered{
 margin: 0 auto;
 width: 100%;
 padding-bottom: 6px;
+text-align: center;
 background-color: #fcb1a6;
 }
 
-div.table{
+.middle{
+margin: auto 0;
+
+}
+
+.table{
 margin: auto 29%;
 max-width: 300px;
 border-color: black;
 border-width: 10px;
 }
 
-table.table-color{
+.table-color{
 background: #fb6376;
 padding-left: 3px;
 padding-right: 3px;
 padding-bottom: 3px;
 }
 
-p.color{
+.color{
 background: #fb6376;
 padding: 10px;
 border-radius: 10px;
